@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#*.* coding = utf-8 *.*
+#*.* coding = caracas *.*
 
 #Host Details
 host = "161.196.204.6"
