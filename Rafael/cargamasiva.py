@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #*.* coding=utf-8 *.*
-
+#Autor Jorge Merchan
 from pg8000 import DBAPI
 import xlrd
 
