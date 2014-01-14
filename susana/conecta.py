@@ -110,3 +110,7 @@ def pgExample():
 #   conecta = pg.connect(dbname="prueba",user="postgres",passwd="posgres")
 #except:
 #   print "Error"
+
+
+
+# ESTA ES UNA PRUEBA
